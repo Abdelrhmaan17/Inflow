@@ -33,8 +33,8 @@
 + View a patient's previous appointment.
 + Change fees.
 
-## My UX design 
+## UX design 
 [Inflow Casestudy](https://www.behance.net/gallery/173035035/Inflow)
 
-## Application run video
+## Demo video
 [Application run](https://drive.google.com/drive/folders/1kT7-bIpmtOJuxPjtOwCMn_jw5tg3ovZ7?usp=sharing)
