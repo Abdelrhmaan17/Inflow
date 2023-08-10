@@ -15,7 +15,7 @@
 
 # Functional Requirements 
 
-##User can
+## User can
 - Sign-up and Login
 - View home, about us, contact us, our vision and FAQs pages. 
 * View and search for articles.
@@ -25,7 +25,7 @@
 + Make appointment (choose time and location).
 + Payment
 
-##Doctor can
+## Doctor can
 - View and check appointments for each day.
 * Access and view profile.
 + Write notes for each patient.
@@ -33,8 +33,8 @@
 + View a patient's previous appointment.
 + Change fees.
 
-##My UX design 
+## My UX design 
 [Inflow Casestudy](https://www.behance.net/gallery/173035035/Inflow)
 
-##Application run video
+## Application run video
 [Application run](https://drive.google.com/drive/folders/1kT7-bIpmtOJuxPjtOwCMn_jw5tg3ovZ7?usp=sharing)
